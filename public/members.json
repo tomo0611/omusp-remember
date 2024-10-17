@@ -1,0 +1,219 @@
+[
+    {
+        "grade": "教授",
+        "name": "阿多 信吾",
+        "name_en": "Shingo Ata",
+        "bio": "ata[at]omu.ac.jp",
+        "img_path": "/wp-content/uploads/2022/03/ata-sensei.png"
+    },
+    {
+        "grade": "准教授",
+        "name": "藤本 まなと",
+        "name_en": "Manato Fujimoto",
+        "bio": "",
+        "img_path": "/wp-content/uploads/2022/01/fujimoto.png"
+    },
+    {
+        "grade": "客員研究員",
+        "name": "山下 知子",
+        "name_en": "Tomoko Yamashita",
+        "bio": "東都大学幕張ヒューマンケア学部臨床工学科 助教",
+        "img_path": "/wp-content/uploads/2022/08/profile-ty.png"
+    },
+    {
+        "grade": "M2",
+        "name": "小川 唯",
+        "name_en": "Yui Ogawa",
+        "bio": "楽しみながら全力投球！",
+        "img_path": "/wp-content/uploads/2022/04/profile-yo2.png"
+    },
+    {
+        "grade": "M2",
+        "name": "田中 良佑",
+        "name_en": "Ryosuke Tanaka",
+        "bio": "全力で頑張ります！",
+        "img_path": "/wp-content/uploads/2022/03/profile-tr.png"
+    },
+    {
+        "grade": "M2",
+        "name": "中曽 禎啓",
+        "name_en": "Yoshihiro Nakaso",
+        "bio": "色んな事にチャレンジ！",
+        "img_path": "/wp-content/uploads/2021/12/profile-ns-1024x1024.png"
+    },
+    {
+        "grade": "M2",
+        "name": "望月 尋斗",
+        "name_en": "Hiroto Mochizuki",
+        "bio": "友好型です。",
+        "img_path": "/wp-content/uploads/2022/03/profile-mh.png"
+    },
+    {
+        "grade": "M1",
+        "name": "磯部 大翔",
+        "name_en": "Taisho Isobe",
+        "bio": "何事も楽しんで！",
+        "img_path": "/wp-content/uploads/2022/11/profile-isobe.png"
+    },
+    {
+        "grade": "M1",
+        "name": "江種 大希",
+        "name_en": "Taiki Egusa",
+        "bio": "様々なことにチャレンジ！",
+        "img_path": "/wp-content/uploads/2022/11/profile-egusa.png"
+    },
+    {
+        "grade": "M1",
+        "name": "北谷 嘉規",
+        "name_en": " Yoshiki Kitatani",
+        "bio": "頑張ります！",
+        "img_path": "/wp-content/uploads/2022/11/profile-kitatani.png"
+    },
+    {
+        "grade": "M1",
+        "name": "田中 紀行",
+        "name_en": " Noriyuki Tanaka",
+        "bio": "精一杯頑張ります！",
+        "img_path": "/wp-content/uploads/2022/11/profile-tanaka.png"
+    },
+    {
+        "grade": "M1",
+        "name": "松倉 一志",
+        "name_en": " Kazushi Matsukura",
+        "bio": "一生懸命！",
+        "img_path": "/wp-content/uploads/2022/11/profile-matsukura.png"
+    },
+    {
+        "grade": "M1",
+        "name": "湊 健太郎",
+        "name_en": "Kentaro Minato",
+        "bio": "楽しみながら全力で頑張ります！",
+        "img_path": "/wp-content/uploads/2022/11/profile-minato.png"
+    },
+    {
+        "grade": "M1",
+        "name": "柳原 功太郎",
+        "name_en": "Kotaro Yanagihara",
+        "bio": "毎日新しい発見を！",
+        "img_path": "/wp-content/uploads/2024/04/profile_yk.png"
+    },
+    {
+        "grade": "B4",
+        "name": "石丸 晴基",
+        "name_en": "Haruki Ishimaru",
+        "bio": "やるときはやる",
+        "img_path": "/wp-content/uploads/2023/11/profile-ih.png"
+    },
+    {
+        "grade": "B4",
+        "name": "植嶋 亮伍",
+        "name_en": "Ryogo Ueshima",
+        "bio": "日々成長！",
+        "img_path": "/wp-content/uploads/2023/11/profile-ur.png"
+    },
+    {
+        "grade": "B4",
+        "name": "田中 大智",
+        "name_en": " Daichi Tanaka",
+        "bio": "誇れるものを身につけたい！",
+        "img_path": "/wp-content/uploads/2023/11/profile-td.png"
+    },
+    {
+        "grade": "B4",
+        "name": "橋本 和磨",
+        "name_en": "Kazuma Hashimoto",
+        "bio": "みんなと仲良く",
+        "img_path": "/wp-content/uploads/2023/11/profile_hk.png"
+    },
+    {
+        "grade": "B4",
+        "name": "橋本 侑樹",
+        "name_en": "Yuki Hashimoto",
+        "bio": "楽しくがんばる！",
+        "img_path": "/wp-content/uploads/2023/11/profile_hy.png"
+    },
+    {
+        "grade": "B4",
+        "name": "横路 侑東",
+        "name_en": "Yuto Yokoro",
+        "bio": "楽しさを忘れずに",
+        "img_path": "/wp-content/uploads/2023/11/profile-yy.png"
+    },
+    {
+        "grade": "B3",
+        "name": "岩本 尚弥",
+        "name_en": "Naoya Iwamoto",
+        "bio": "失敗を恐れない ",
+        "img_path": "/wp-content/uploads/2024/10/profile-in.png"
+    },
+    {
+        "grade": "B3",
+        "name": "大井 智弘",
+        "name_en": "Tomohiro Oi",
+        "bio": "白鷺祭の部活展示(@c_h_random)でLT会とポスター発表やるので是非来てください！",
+        "img_path": "/wp-content/uploads/2024/10/profile-ot.png"
+    },
+    {
+        "grade": "B3",
+        "name": "佐藤 俊太",
+        "name_en": "Shunta Sato",
+        "bio": "楽しさを大切にがんばる！",
+        "img_path": "/wp-content/uploads/2024/10/profile-ss.png"
+    },
+    {
+        "grade": "B3",
+        "name": "田中 亮太郎",
+        "name_en": "Ryotaro Tanaka",
+        "bio": "精進します",
+        "img_path": "/wp-content/uploads/2024/10/profile-tr.png"
+    },
+    {
+        "grade": "B3",
+        "name": "山下 諒人",
+        "name_en": "Ryoto Yamashita",
+        "bio": "やればできる！",
+        "img_path": "/wp-content/uploads/2024/10/profile-yr.png"
+    },
+    {
+        "grade": "B3",
+        "name": "吉田 壮志",
+        "name_en": "Sohshi Yoshida",
+        "bio": "楽しくエンタメを追求する！",
+        "img_path": "/wp-content/uploads/2024/10/profile-ys.png"
+    },
+    {
+        "grade": "教授",
+        "name": "Kai Cai",
+        "name_en": "",
+        "bio": "",
+        "img_path": "/wp-content/uploads/2022/03/profile-kaicai.png"
+    },
+    {
+        "grade": "特任教授",
+        "name": "石丸 翔也",
+        "name_en": "",
+        "bio": "",
+        "img_path": "/wp-content/uploads/2022/07/shoya-ishimaru.png"
+    },
+    {
+        "grade": "講師",
+        "name": "勝間 亮",
+        "name_en": "",
+        "bio": "",
+        "img_path": "/wp-content/uploads/2022/01/profile5.png"
+    },
+    {
+        "grade": "准教授",
+        "name": "後藤 佑介",
+        "name_en": "",
+        "bio": "",
+        "img_path": "/wp-content/uploads/2022/07/yusuke-goto.png"
+    },
+    {
+        "grade": "Ph.D. Student",
+        "name": "渡邉 洸",
+        "name_en": "",
+        "bio": "",
+        "img_path": "/wp-content/uploads/2022/07/ko-watanabe.png"
+    }
+]
